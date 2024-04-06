@@ -1,0 +1,15 @@
+Selection sort: Multiple passes made in the array, and the smallest value is picked each time and placed at the right position. In it the smallest element gets sorted on the first pass, and second smallest in the second round and so on...
+
+space complexity: O(1)
+time complexity: O(n^2)
+Used when: size of array is small or to be done in constant space
+
+
+Bubble Sort: Multiple passes are made in the array checking two consecutive numbers at a time and swapping them on the go, this method sorts the largest element first and places it at the last in the first turn, and so on
+
+space complexity: O(1)
+time complexity: O(n^2)
+
+Optimization: if in any round, no element is swapped, then array is already sorted and we can break the loop
+
+
