@@ -34,6 +34,8 @@ int Vector() {
   // Access element at specific index
   int el = v.at(1);
 
+  cout << size << capacity << empty << el << endl;
+
   // Clear the vector
   v.clear();
 
