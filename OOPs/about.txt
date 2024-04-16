@@ -1,0 +1,5 @@
+Object : Object is an entitiy that has two things, a state/ properties and behaviour/methods. It is also an instance of a class
+
+OOPs: Programming style where code revolves around a object.
+
+Class: class is a user defined data type, or bluprint of an object
