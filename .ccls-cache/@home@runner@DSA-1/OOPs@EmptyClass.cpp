@@ -18,5 +18,5 @@ void create(){
   // prints 1, just to assign significance to the object
   cout << "Size of empty class" << sizeof(h1) << endl;
   // prints 8, since size of an object is the total size of its properties
-  cout << "Size of empty class" << sizeof(h1) << endl;
+  cout << "Size of empty class" << sizeof(v1) << endl;
 }

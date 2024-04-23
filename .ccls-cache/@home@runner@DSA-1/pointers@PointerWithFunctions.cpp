@@ -40,7 +40,7 @@ int call() {
   cout << "Sum of array -> " << getSum(arr, 6) << endl;
 
   // we can also pass a portion of the array
-  cout << "Sum of 4 elements is ->" << getSum(arr + 3, 6);
+  cout << "Sum of 4 elements is ->" << getSum(arr + 3, 3);
 
   return 0;
 }
