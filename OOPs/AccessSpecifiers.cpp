@@ -9,7 +9,8 @@ class Hero {
   of three types -> public, private and protected
   public: can be accessed within the class as well as outside class
   private: can be accessed withing the class and not outside the class
-  protected:
+  protected: cannot be accessed by other classes but can be accessed by its
+  child class.
 
   By default properties are private if no access specifier is written
   */
